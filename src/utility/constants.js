@@ -1,0 +1,1 @@
+export const MENU_LOGO = 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hamburger_icon.svg/250px-Hamburger_icon.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail';

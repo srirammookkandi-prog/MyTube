@@ -16,7 +16,6 @@ const Header = () => {
             <div className="m-2">
                 <UserRound className="m-2" />
             </div>
-
         </div>
     )
 }

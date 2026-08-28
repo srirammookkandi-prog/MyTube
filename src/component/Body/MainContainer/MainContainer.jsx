@@ -1,5 +1,5 @@
-import ButtonList from './ButtonList'
-import VideoContainer from './VideoContainer'
+import ButtonList from './ButtonList/ButtonList'
+import VideoContainer from './VideoContainer/VideoContainer'
 
 const MainContainer = () => {
     return (

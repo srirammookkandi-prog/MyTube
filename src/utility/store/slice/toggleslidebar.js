@@ -8,9 +8,12 @@ const toggleslidebar = createSlice({
     reducers: {
         Togglesidebar: (state) => {
             state.isMenuOpen = !state.isMenuOpen;
+        },
+        Closesidebar: (state) => {
+            state.isMenuOpen = false;
         }
     }
 
 })
-export const { Togglesidebar } = toggleslidebar.actions;
+export const { Togglesidebar, Closesidebar } = toggleslidebar.actions;
 export default toggleslidebar.reducer;
